@@ -18,7 +18,7 @@ description: 图像（暂时没时间继续维护）
     图像分享: 新冠 ICU 里 病人与家属做临终告别时用的 iPad。
 
     为什么许多人对新冠病毒在全世界造成的大量死亡感到麻木，因为对于我们大多数人来说，这场疫情的最惨痛经历是目击不到的。
-5. ![image-20201206153751981](../.gitbook/assets/image-20201206153751981.png)
+5. ![image-20201206153751981](<../.gitbook/assets/image-20201206153751981 (1).png>)
 6. 分享本画册，里面的绘画都超治愈。 \
    生活蒙太奇 \
    [https://book.douban.com/subject/35088492/](https://book.douban.com/subject/35088492/) \

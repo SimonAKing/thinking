@@ -4,7 +4,7 @@ description: 破梗（暂时没时间继续维护）
 
 # Joke
 
-1. ![image-20201122150516492](../.gitbook/assets/image-20201122150516492.png)
+1. ![image-20201122150516492](<../.gitbook/assets/image-20201122150516492 (1).png>)
 2. 我女儿刚刚学会走路，我是否该在她会识字后就立马教她Python？ - Jason5Lee的回答 - 知乎 [https://www.zhihu.com/question/384252884/answer/1130708274](https://www.zhihu.com/question/384252884/answer/1130708274)
 3. 如果你们想要自创一个编程语言，你们希望它有什么特色? - doodlewind的回答 - 知乎 [https://www.zhihu.com/question/393746244/answer/1223160359](https://www.zhihu.com/question/393746244/answer/1223160359)
 4. ![image-20201122150746995](../.gitbook/assets/image-20201122150746995.png)
@@ -16,7 +16,7 @@ description: 破梗（暂时没时间继续维护）
 10. ![image-20201126104743183](<../.gitbook/assets/image-20201126104743183 (2) (1).png>)
 11. 恭喜您被选为CSDN插件内测用户：点此领取福利
 
-    [https://mp.weixin.qq.com/s?\_\_biz=MjM5MjAwODM4MA==\&mid=2650797670\&idx=1\&sn=d01b39c3737026b8f4c83ad7112dd6d1](https://mp.weixin.qq.com/s?\_\_biz=MjM5MjAwODM4MA==\&mid=2650797670\&idx=1\&sn=d01b39c3737026b8f4c83ad7112dd6d1)
+    [https://mp.weixin.qq.com/s?\_\_biz=MjM5MjAwODM4MA==\&mid=2650797670\&idx=1\&sn=d01b39c3737026b8f4c83ad7112dd6d1](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==\&mid=2650797670\&idx=1\&sn=d01b39c3737026b8f4c83ad7112dd6d1)
 
     这也太魔幻了，csdn 官方自己出插件 优化站内广告..
 12. 你在java面试中被问过什么让你觉得对方逼格很高的问题？ - 剽悍一小兔的回答 - 知乎 [https://www.zhihu.com/question/53673888/answer/1580644211](https://www.zhihu.com/question/53673888/answer/1580644211)
@@ -75,7 +75,7 @@ description: 破梗（暂时没时间继续维护）
 25. ![image-20210116154733419](../.gitbook/assets/image-20210116154733419.png)
 26. 所以……是出了问题才知道 Flash 被停用的么……
 
-    [https://weibo.com/1668726803/JDclcgigy?ssl\_rnd=1610783219.8414\&type=comment#\_rnd1610783230849](https://weibo.com/1668726803/JDclcgigy?ssl\_rnd=1610783219.8414\&type=comment#\_rnd1610783230849)
+    [https://weibo.com/1668726803/JDclcgigy?ssl\_rnd=1610783219.8414\&type=comment#\_rnd1610783230849](https://weibo.com/1668726803/JDclcgigy?ssl_rnd=1610783219.8414\&type=comment#_rnd1610783230849)
 
     A: 太好玩了，配上这文案…
 
@@ -139,7 +139,7 @@ description: 破梗（暂时没时间继续维护）
 44. 分享篇有趣的文章：
 
     代码要按行收费？！\
-    &#x20;[https://mp.weixin.qq.com/s?\_\_biz=MjM5NzAxMzMxOQ==\&mid=2675249783\&idx=1\&sn=89853b6c2302f2f7dbffea43739b3a61\&chksm=bc61c05f8b164949156fe0619071eecc1b1faa8f0d33a9bdc0326bc139962d3a5eae3ad4465c](https://mp.weixin.qq.com/s?\_\_biz=MjM5NzAxMzMxOQ==\&mid=2675249783\&idx=1\&sn=89853b6c2302f2f7dbffea43739b3a61\&chksm=bc61c05f8b164949156fe0619071eecc1b1faa8f0d33a9bdc0326bc139962d3a5eae3ad4465c)
+    &#x20;[https://mp.weixin.qq.com/s?\_\_biz=MjM5NzAxMzMxOQ==\&mid=2675249783\&idx=1\&sn=89853b6c2302f2f7dbffea43739b3a61\&chksm=bc61c05f8b164949156fe0619071eecc1b1faa8f0d33a9bdc0326bc139962d3a5eae3ad4465c](https://mp.weixin.qq.com/s?__biz=MjM5NzAxMzMxOQ==\&mid=2675249783\&idx=1\&sn=89853b6c2302f2f7dbffea43739b3a61\&chksm=bc61c05f8b164949156fe0619071eecc1b1faa8f0d33a9bdc0326bc139962d3a5eae3ad4465c)
 
     摘要：有一个站在巅峰的男人曾经应拉里 · 佩奇的邀请将谷歌的所有代码写成了一行，并且能完整的实现了谷歌现有的所有功能，人们甚至发现谷歌搜索快了将近 30%。后来有华尔街和硅谷的资深从业者看到这行代码后久久不能平静，对这行代码给出了 5600 亿美元的估值，当然这行代码一般人是看不完的，据说这行代码的长度可以从加州连接到 M31 星系。
 45. 我还真搜到了文中提到的 awesome-awesome-awesome repo，\
@@ -163,11 +163,11 @@ description: 破梗（暂时没时间继续维护）
 
 
 
-![这帖子绝对是来搞事情的](<../.gitbook/assets/image (14).png>)
+<div align="left"><img src="../.gitbook/assets/image (14).png" alt="这帖子绝对是来搞事情的"></div>
 
-​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app\&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app\&utm\_source=share)
+​[https://www.reddit.com/r/linux/comments/kkv8kq/my\_boyfriend\_is\_very\_into\_linux\_i\_know\_nothing/?utm\_medium=android\_app\&utm\_source=share](https://www.reddit.com/r/linux/comments/kkv8kq/my_boyfriend_is_very_into_linux_i_know_nothing/?utm_medium=android_app\&utm_source=share)
 
 
 
-![https://www.reddit.com/r/ProgrammerHumor/comments/kn04bb/wholesome/](<../.gitbook/assets/image (19).png>)
+![https://www.reddit.com/r/ProgrammerHumor/comments/kn04bb/wholesome/](<../.gitbook/assets/image (13).png>)
 

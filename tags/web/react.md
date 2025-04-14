@@ -5,7 +5,7 @@
     今天翻译了下，值得前端同学 一读。
 
     [https://tomotoes.com/blog/7-code-smells-in-react-components/](https://tomotoes.com/blog/7-code-smells-in-react-components/)
-2.  视频分享： Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019 [https://www.youtube.com/watch?v=KJP1E-Y-xyo\&ab\_channel=JSConf](https://www.youtube.com/watch?v=KJP1E-Y-xyo\&ab\_channel=JSConf)
+2.  视频分享： Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019 [https://www.youtube.com/watch?v=KJP1E-Y-xyo\&ab\_channel=JSConf](https://www.youtube.com/watch?v=KJP1E-Y-xyo\&ab_channel=JSConf)
 
     视频讲解了 如何用40行代码去模拟实现 React Hooks 特性。 对 React Hooks 有兴趣的同学可以了解下，其中的原理是使用到了闭包。
 3. 为什么 React 源码不用 TypeScript 来写？ - Cat Chen的回答 - 知乎 [https://www.zhihu.com/question/378470381/answer/1079675543](https://www.zhihu.com/question/378470381/answer/1079675543)
@@ -90,7 +90,7 @@
     指出了 使用 hooks 典型的场景.
 21. 分享篇文章: \
     5 React Custom Hooks You Should Start Using (Explained) \
-    [https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email](https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email)
+    [https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email](https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm_source=digest_mailer\&utm_medium=email\&utm_campaign=digest_email)
 
     文章写得挺好的，建议阅读。
 22. 分享篇文章：
@@ -110,9 +110,9 @@
     B: 好家伙，我垃圾代码看多了，这种没放在 usecallback 的函数我已经习以为常了。。。\
     C: 嗯 每次 render 时, onClick 都是一个新的函数, 而函数是引用类型, 所以 每次render 时 都会重新 render Button 组件...
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
-![ 分享下今天 coding 时对 React 的重新思考..](<../../.gitbook/assets/image (17).png>)
+![ 分享下今天 coding 时对 React 的重新思考..](<../../.gitbook/assets/image (12).png>)
 
 ![设计优秀的代码, 看起来就像诗一样的优美..](../../.gitbook/assets/image-20210104232439943.png)
 

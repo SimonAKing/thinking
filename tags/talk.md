@@ -40,7 +40,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
 
     rand2 代表的是一种对立布尔状态, rand5 则是 1-5 随机数 如果 rand2 === 1 那么就 返回 rand5, 否则就 5 + rand5
 
-    ![image-20201122200528263](<../.gitbook/assets/image (1) (1) (1).png>)
+    ![image-20201122200528263](<../.gitbook/assets/image (1) (1).png>)
 4.  A:Kotlin 她真的太美了。
 
     B:\[翻白眼]kotlin 也能在jvm上跑是不是
@@ -78,7 +78,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
     JS ruby c# 也有jvm的版本，哈哈
 5.  无意间刷到了篇垃圾文章, 真是被恶心到了..
 
-    ![image-20201128150537157](../.gitbook/assets/image-20201128150537157.png)
+    ![image-20201128150537157](<../.gitbook/assets/image-20201128150537157 (1).png>)
 
     如此妖魔化的产物 说成 中国在世界上的科技创新...
 
@@ -109,7 +109,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
 
     JS 完全可以借助 Proxy 实现内部DSL! 太酷了\~
 
-    ![image-20201128213230810](<../.gitbook/assets/image-20201128213230810 (2).png>)
+    ![image-20201128213230810](<../.gitbook/assets/image-20201128213230810 (2) (1).png>)
 7.  A: 大佬们都是用什么来写博客的，readme？
 
     B: ![image-20201203131909783](<../.gitbook/assets/image-20201203131909783 (1).png>)
@@ -224,7 +224,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
 
     Answer: 不是 requestAnimationFrame, 也不是 setTimeout, 是 MessageChannel + postMessage
 
-    ![image-20201224233447568](<../.gitbook/assets/image-20201224233447568 (1).png>)
+    ![image-20201224233447568](../.gitbook/assets/image-20201224233447568.png)
 
     可以看下 上面这张图, 这个相当于简化版本的 react 调度机制实现.
 
@@ -246,7 +246,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
     我刚刚查了一下 nextTick 先检测是否原生支持Promise，不⽀持的话再去检测是否支持MutationObserver，如果都不行就只能尝试宏任务实现，首先是setImmediate，这是⼀个⾼版本 IE 和 Edge 才支持的特性，如果都不支持的话最后就会降级为 setTimeout。
 
     ~~这个问题就挺有趣的.. React 的异步是 MessageChannel 宏任务 , Vue 的nextTick 使用的 微任务 , 为什么呢...~~\
-    ~~~~Vue 的渲染机制 是通过 Proxy 来实现 细粒度更新的... 它并不需要 微任务.. 只是 Vue nextTick 这个场景下需要..
+    Vue 的渲染机制 是通过 Proxy 来实现 细粒度更新的... 它并不需要 微任务.. 只是 Vue nextTick 这个场景下需要..
 13. A: 我到字节 最好奇的就是 有很多很多同事 的开发环境 就是使用 mac + 触控板.. 我坚持了一周, 各种效率软件 魔改快捷方式软件 都试过了.. 撑不下去了..
 
     B: 哈哈哈我也觉得很顺手啊 是时候分享一波你的魔法操作了
@@ -837,7 +837,7 @@ description: 我们讨论过的事物（暂时没时间继续维护）
     想参加的同学可以在群里说，或者私信我。
 40. Kujira no namida
 
-    [https://music.163.com/#/song/1434293074/?userid=70921220\&app\_version=8.1.10](https://music.163.com/#/song/1434293074/?userid=70921220\&app\_version=8.1.10)
+    [https://music.163.com/#/song/1434293074/?userid=70921220\&app\_version=8.1.10](https://music.163.com/#/song/1434293074/?userid=70921220\&app_version=8.1.10)
 
     A: 当初做这首曲子用了2个小时，是因为情感问题，心里很，不知道怎么形容，
 

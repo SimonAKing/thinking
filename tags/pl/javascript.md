@@ -50,19 +50,19 @@
 
     JS 完全可以借助 Proxy 实现内部 DSL! 太酷了\~
 
-    ![image-20201128213230810](<../../.gitbook/assets/image-20201128213230810 (2) (1).png>)
+    ![image-20201128213230810](<../../.gitbook/assets/image-20201128213230810 (2).png>)
 5.  快餐文分享：
 
     ECMAScript 双月报告：TC39 11月会议提案进度汇总
 
-    [https://mp.weixin.qq.com/s?\_\_biz=MzI5NjM5NDQxMg==\&mid=2247488302\&idx=1\&sn=6dd21d69db461379c0be9a50929b5b63](https://mp.weixin.qq.com/s?\_\_biz=MzI5NjM5NDQxMg==\&mid=2247488302\&idx=1\&sn=6dd21d69db461379c0be9a50929b5b63)
+    [https://mp.weixin.qq.com/s?\_\_biz=MzI5NjM5NDQxMg==\&mid=2247488302\&idx=1\&sn=6dd21d69db461379c0be9a50929b5b63](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==\&mid=2247488302\&idx=1\&sn=6dd21d69db461379c0be9a50929b5b63)
 
     摘要：这次 TC39 会议是 2020 年度最后一次全员会议。这次会议中没有任何提案争取到从 Stage 2 进入 Stage 3 的共识，也没有提案从 Stage 3 进入 Stage 4。
 
     我喜欢 proposal-extensions 这个提案，现在的语言早就应该支持 Pointfree 特性了，就像管道似的\~
 6.  [https://www.instagram.com/p/CFeevK7g6ES/?igshid=1vfezo09h0sir](https://www.instagram.com/p/CFeevK7g6ES/?igshid=1vfezo09h0sir)
 
-    ![image-20201207230225367](../../.gitbook/assets/image-20201207230225367.png)
+    ![image-20201207230225367](<../../.gitbook/assets/image-20201207230225367 (1).png>)
 
     A: copywithin？
 
@@ -143,7 +143,7 @@
 
     A: 学 JS 这一点 一直让我不爽，想找 native code，只能去翻 V8 源码。
 
-    A: ![image-20201207230822031](../../.gitbook/assets/image-20201207230822031.png)
+    A: ![image-20201207230822031](<../../.gitbook/assets/image-20201207230822031 (1).png>)
 
     [http://es5.github.io/#x10.6](http://es5.github.io/#x10.6)
 

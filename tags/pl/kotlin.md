@@ -19,4 +19,4 @@
 
     [https://blog.jetbrains.com/kotlin/2021/02/new-language-features-preview-in-kotlin-1-4-30/](https://blog.jetbrains.com/kotlin/2021/02/new-language-features-preview-in-kotlin-1-4-30/)
 
-![如此语义化, 看着就赏心悦目..](<../../.gitbook/assets/image (18).png>)
+![如此语义化, 看着就赏心悦目..](<../../.gitbook/assets/image (16).png>)

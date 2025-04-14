@@ -4,7 +4,7 @@ description: 操作系统（暂时没时间继续维护）
 
 # OS
 
-1. [Linux系统调用详解（实现机制分析）](https://mp.weixin.qq.com/s?\_\_biz=MjM5NTEwMTAwNg==\&mid=2650234968\&idx=2\&sn=ac66f50ab865f063b86620c970c029df\&chksm=befe60798989e96fb5083482a41c85c248b460fcf0514a4f64bf8099aa6a4537d27caab31676\&mpshare=1\&scene=1\&srcid=11142yPKPW3WuUYBzuK3EokC\&sharer\_sharetime=1605363487361\&sharer\_shareid=765a226e8a94a0d2fa33e57e9363afac\&key=29a501fbe6d282a45bd111ba4fd954778d62b6559d909de6d8ddffe3b99a817ec3bd844d3ddfeb6a0c9f0df941e9e0ab5c92fc5a0ca1e95c79b8c47b9432d7e537e9827500d98eb0ce7a767187579ab865692be105a2492c53cccd3eedef92c375f62e613c5bc641dd6785b8418b580d95b01794c12abfadc571983b57639ba7\&ascene=1\&uin=MzA1OTU5NTc0\&devicetype=Windows+10+x64\&version=6300002f\&lang=zh\_CN\&exportkey=AxzKkI9tPkDQa0lLx3WZmw0%3D\&pass\_ticket=SgzS0tNZCexKGAoYVX6Ti8IwGWyAv%2BQfFRa5bUFUlvkEAgmSXJ03rdvqroRZOQYI\&wx\_header=0)
+1. [Linux系统调用详解（实现机制分析）](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==\&mid=2650234968\&idx=2\&sn=ac66f50ab865f063b86620c970c029df\&chksm=befe60798989e96fb5083482a41c85c248b460fcf0514a4f64bf8099aa6a4537d27caab31676\&mpshare=1\&scene=1\&srcid=11142yPKPW3WuUYBzuK3EokC\&sharer_sharetime=1605363487361\&sharer_shareid=765a226e8a94a0d2fa33e57e9363afac\&key=29a501fbe6d282a45bd111ba4fd954778d62b6559d909de6d8ddffe3b99a817ec3bd844d3ddfeb6a0c9f0df941e9e0ab5c92fc5a0ca1e95c79b8c47b9432d7e537e9827500d98eb0ce7a767187579ab865692be105a2492c53cccd3eedef92c375f62e613c5bc641dd6785b8418b580d95b01794c12abfadc571983b57639ba7\&ascene=1\&uin=MzA1OTU5NTc0\&devicetype=Windows+10+x64\&version=6300002f\&lang=zh_CN\&exportkey=AxzKkI9tPkDQa0lLx3WZmw0%3D\&pass_ticket=SgzS0tNZCexKGAoYVX6Ti8IwGWyAv%2BQfFRa5bUFUlvkEAgmSXJ03rdvqroRZOQYI\&wx_header=0)
 2. [漫话：如何给女朋友解释什么是Linux的五种IO模型？](https://juejin.cn/post/6844903687626686472)
 3. Cache的基本原理 - smcdef的文章 - 知乎 [https://zhuanlan.zhihu.com/p/102293437](https://zhuanlan.zhihu.com/p/102293437)
 4.  Kernel 内核 在计算机科学中是一个用来管理软件发出的数据I/O（输入与输出）要求的计算机程序，将这些要求转译为数据处理的指令并交由中央处理器（CPU）及计算机中其他电子组件进行处理，是现代操作系统中最基本的部分。
@@ -16,10 +16,10 @@ description: 操作系统（暂时没时间继续维护）
 6. ![image-20201122150247031](../.gitbook/assets/image-20201122150247031.png)
 7.  M1 暴打 Intel？——x86 与 ARM 的爱恨情仇 [https://blog.liangyueyong.cn/p/b013.html](https://blog.liangyueyong.cn/p/b013.html)
 
-    摘要: 事实上，CPU 做的事情很简单也最核心，简单来说就是接收指令+运算。CPU 和千千万打工人一样，首先要有正常的**工作能力**（即执行能力/运算能力），然后又有足够的**逻辑能力**（能明白做事的顺序），最后还要有一定的**理解能力，能听懂别人的话**（即指令集），才能正常工作。而把这些**集中在一起**就构成了所谓的「**架构」**。你可以将「架构」理解为一套**“工具”、“方法”和“规范”的集合**。
+    摘要: 事实上，CPU 做的事情很简单也最核心，简单来说就是接收指令+运算。CPU 和千千万打工人一样，首先要有正常的**工作能力**（即执行能力/运算能力），然后又有足够的**逻辑能力**（能明白做事的顺序），最后还要有一定的**理解能力，能听懂别人的话**（即指令集），才能正常工作。而把这些**集中在一起**就构成了所谓的「**架构」**。你可以将「架构」理解为一&#x5957;**“工具”、“方法”和“规范”的集合**。
 8.  一图看清 Linux 权限说明
 
-    ![img](../.gitbook/assets/file-llls22.jpg)
+    ![img](<../.gitbook/assets/file-llls22 (1).jpg>)
 
     在 Linux 中第一个字符代表这个文件是目录、文件或链接文件等等。
 
@@ -39,7 +39,7 @@ description: 操作系统（暂时没时间继续维护）
     摘要：谈起IO的模型，大多数人脑子里肯定是一坨混乱的概念，“阻塞”、“非阻塞”，“同步”、“异步”有什么区别？很多同学傻傻分不清，有尝试去搜索相关资料去探究真相，结果又被淹没在茫茫的概念之中。
 
     文章从底层讲解了下从BIO到NIO的一个过程，着重介绍了IO多路复用的几个系统调用select()、poll()、epoll()，分析了下各自的优劣，技术都是持续发展演进的，目前也有很多的痛点。
-10. ![image-20201203135444934](../.gitbook/assets/image-20201203135444934.png)
+10. ![image-20201203135444934](<../.gitbook/assets/image-20201203135444934 (1).png>)
 11. 快餐文分享：
 
     Windows Subsystem for Linux: The lost potential
@@ -56,14 +56,14 @@ description: 操作系统（暂时没时间继续维护）
 
     漫画 | 从量子力学到抖音
 
-    [https://mp.weixin.qq.com/s?\_\_biz=MzAxOTc0NzExNg==\&mid=2665523232\&idx=1\&sn=4dc7613bb5be208452677485d7e8e7c2](https://mp.weixin.qq.com/s?\_\_biz=MzAxOTc0NzExNg==\&mid=2665523232\&idx=1\&sn=4dc7613bb5be208452677485d7e8e7c2)
+    [https://mp.weixin.qq.com/s?\_\_biz=MzAxOTc0NzExNg==\&mid=2665523232\&idx=1\&sn=4dc7613bb5be208452677485d7e8e7c2](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==\&mid=2665523232\&idx=1\&sn=4dc7613bb5be208452677485d7e8e7c2)
 
     量子力学 -> 晶体管 -> 逻辑电路 -> 指令集 -> 汇编语言 -> 高级语言 -> 应用程序
 14. 快餐文分享:
 
     多线程那些事，硬核有趣
 
-    [https://mp.weixin.qq.com/s?\_\_biz=MzUxODAzNDg4NQ==\&mid=2247487160\&idx=2\&sn=b3f86df179f5ba65e61fbdf2700a3e23](https://mp.weixin.qq.com/s?\_\_biz=MzUxODAzNDg4NQ==\&mid=2247487160\&idx=2\&sn=b3f86df179f5ba65e61fbdf2700a3e23)
+    [https://mp.weixin.qq.com/s?\_\_biz=MzUxODAzNDg4NQ==\&mid=2247487160\&idx=2\&sn=b3f86df179f5ba65e61fbdf2700a3e23](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==\&mid=2247487160\&idx=2\&sn=b3f86df179f5ba65e61fbdf2700a3e23)
 
     摘要: 用户级线程做不到并发只能并行, 但是，**内核级线程是可以利用多核CPU的，即可以并行**！
 
@@ -71,7 +71,7 @@ description: 操作系统（暂时没时间继续维护）
 15. 快餐文分享：
 
     终于明白了，一文彻底理解I/O多路复用 \
-    [https://mp.weixin.qq.com/s?\_\_biz=MzI0MjEwMDMzNQ==\&mid=2652517896\&idx=1\&sn=0ccd0ddf7e0b75094a6843039948692f](https://mp.weixin.qq.com/s?\_\_biz=MzI0MjEwMDMzNQ==\&mid=2652517896\&idx=1\&sn=0ccd0ddf7e0b75094a6843039948692f)
+    [https://mp.weixin.qq.com/s?\_\_biz=MzI0MjEwMDMzNQ==\&mid=2652517896\&idx=1\&sn=0ccd0ddf7e0b75094a6843039948692f](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==\&mid=2652517896\&idx=1\&sn=0ccd0ddf7e0b75094a6843039948692f)
 
     文章较简单，没有介绍抽象概念，没了解过 I/O 机制的同学可以读一下。
 
@@ -82,7 +82,7 @@ description: 操作系统（暂时没时间继续维护）
     不过现在 IO 机制的思想，已经很难改变了。
 
     不管是 windows 的 select ，还是 linux 的 epoll ，还是 mac 的 kqueue 实质上都是一种思想 的不同实现。
-16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm\_source=wechat\_session\&utm\_medium=social\&utm\_oi=1088870436204318720\&utm\_campaign=shareopn)
+16. [你不好奇 Linux 是如何收发网络包的？](https://zhuanlan.zhihu.com/p/339698383?utm_source=wechat_session\&utm_medium=social\&utm_oi=1088870436204318720\&utm_campaign=shareopn)
 17. 多个CPU的原子操作通常通过总线锁或者是缓存锁实现，意思就是当某一个核读取一块内存或者是缓存的时候。CPU会拉低系统总线或者是缓存的电平，这样其他核就无法读取被锁定的区域，这样就实现了资源隔离，从而解决并发冲突问题。\
     硬件层面上的原子操作机制。
 18. 看完这篇还不懂高并发中的线程与线程池你来打我(内含20张图)
@@ -105,19 +105,19 @@ description: 操作系统（暂时没时间继续维护）
 23. 计算密集与IO密集最本质的差别 就是 计算密集主要在用户态花费时间，IO密集则是在内核态。
 24. 内存对齐 | 原来字段顺序还能影响结构体占用的内存空间
 
-    [https://mp.weixin.qq.com/s/l3T5p\_iw3S9nm635ezflGQ](https://mp.weixin.qq.com/s/l3T5p\_iw3S9nm635ezflGQ)
+    [https://mp.weixin.qq.com/s/l3T5p\_iw3S9nm635ezflGQ](https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ)
 25. 漫画 | CPU战争40年，真正的王者终于现身!
 
-    [https://mp.weixin.qq.com/s/ARmVvuRR8bwmo3Dm1\_mJLA](https://mp.weixin.qq.com/s/ARmVvuRR8bwmo3Dm1\_mJLA)
+    [https://mp.weixin.qq.com/s/ARmVvuRR8bwmo3Dm1\_mJLA](https://mp.weixin.qq.com/s/ARmVvuRR8bwmo3Dm1_mJLA)
 26. 好文分享:
 
     为什么 Linux 需要 Swapping
 
-    [https://mp.weixin.qq.com/s/sf9G13Lp0LNm\_CvFzDYGaA](https://mp.weixin.qq.com/s/sf9G13Lp0LNm\_CvFzDYGaA)
+    [https://mp.weixin.qq.com/s/sf9G13Lp0LNm\_CvFzDYGaA](https://mp.weixin.qq.com/s/sf9G13Lp0LNm_CvFzDYGaA)
 27. 如果 CPU 访问 L1 缓存需要 1 秒，那么访问主存需要 3 分钟、从 SSD 中随机读取数据需要 3.4 天、磁盘寻道需要 2 个月，网络传输可能需要 1 年多的时间。
 28. 为什么 Linux 默认页大小是 4KB
 
-    [https://mp.weixin.qq.com/s/rz5H5\_kKul-H1Z8u0aYGcg](https://mp.weixin.qq.com/s/rz5H5\_kKul-H1Z8u0aYGcg)
+    [https://mp.weixin.qq.com/s/rz5H5\_kKul-H1Z8u0aYGcg](https://mp.weixin.qq.com/s/rz5H5_kKul-H1Z8u0aYGcg)
 29. 漫画 | 轻松写意了解一下Linux 内核的真面目
 
     [https://mp.weixin.qq.com/s/RySLif5-dZRVpiNGcdbZ2w](https://mp.weixin.qq.com/s/RySLif5-dZRVpiNGcdbZ2w)
