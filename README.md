@@ -35,6 +35,6 @@ description: Information filtering service
 
 ### 入口
 
-马进 邀请你加入飞书群，快点击 [https://applink.feishu.cn/client/chat/chatter/add\_by\_link?link\_token=30bib136-efc6-405f-9652-5ffa17acf0f0 ](https://applink.feishu.cn/client/chat/chatter/add\_by\_link?link\_token=30bib136-efc6-405f-9652-5ffa17acf0f0)加入吧！
+添加我的微信，邀你进群：
 
-<figure><img src=".gitbook/assets/think.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
