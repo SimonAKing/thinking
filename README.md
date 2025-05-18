@@ -35,6 +35,6 @@ description: Information filtering service
 
 ### 入口
 
-添加我的微信，邀你进群：
+添加我的微信，邀你进群，微信号：simonaking
 
 <figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
